@@ -2,10 +2,10 @@
 /*
 Plugin Name: Print My Blog - New Section Template
 Plugin URI: https://github.com/mnelson4/pmb-sample-default-template-override
-Description: Overrides the default template for the classic digital PDF
+Description: https://github.com/mnelson4/pmb-new-section-template
 Author: Mike Nelson
 Version: 1.0.0
-Author URI:
+Author URI: https://printmy.blog
 */
 
 define('PMBNST_MAIN_FILE', __FILE__);
